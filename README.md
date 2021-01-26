@@ -17,4 +17,8 @@ dao->service->servlet->filter->user
 
 ![image](_img/进入系统.png)
 
-![image](_img/登录.png)
+密码修改
+
+![image](_img/密码修改.png)
+
+![image](_img/密码修改.png)
