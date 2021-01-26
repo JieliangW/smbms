@@ -21,4 +21,8 @@ dao->service->servlet->filter->user
 
 ![image](_img/密码修改.png)
 
-![image](_img/密码修改.png)
+用户管理
+
+![image](_img/用户管理.png)
+
+
